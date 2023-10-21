@@ -58,3 +58,43 @@
 </td></tr></table>  
 
 <br/>
+
+<table><tr><td valign="top" width="50%">
+  
+## <div align="center"> School Project
+Here are some of the projects that I have worked with in school, have a look!
+
+### <div> Connect React project to supabase
+* [Blogg]()
+* [Blogg - code](https://github.com/CyberGalactus/bloggProject)
+
+### <div> Group Project - WebApp for Skellefteå
+* [Swipe North - Web app](swipenorth-group6.vercel.app)
+* [Swipe North - Web app code](https://github.com/JTKsson/swipenorth-group6)
+
+### <div> Group project - Jolint website
+* [Jolint - Dashboard](https://jolint-dashboard-chi.vercel.app/)
+* [Jolint - Dashboard Code](https://github.com/JTKsson/jolint-dashboard)
+* [Jolint - Concent Form](jolint-consent-form.vercel.app)
+* [Jolint - Concent Form Code](https://github.com/JTKsson/jolint-consent-form)
+* [Jolint - Info Page](jolint-webbapp.vercel.app)
+* [Jolint - Info Page code](https://github.com/JTKsson/jolint-webbapp)
+
+### <div> Assignment - Learning Git
+* [Git - Getting your baseline](https://github.com/Stjaertfena/lab-0-baseline)
+* [Git - Branching & Integrating Changes](https://github.com/Stjaertfena/lab-1-branching)
+* [Git - Undoing Changes](https://github.com/CyberGalactus/lab-2-undoing-changes)
+* [Git - Hunting Production Bugs](https://github.com/Stjaertfena/lab-3-bisect)
+
+
+### <div> Assignment - Javascript ramverk
+* [Intro Assingment - button](https://app-assignment1.vercel.app/)
+* [Intro Assingment - button code](https://github.com/CyberGalactus/button-introAssingment)
+
+</td><td valign="top" width="50%">
+  
+## <div align="center"> Contact Me  
+### <div> Contact
+* Mail : edu.andersen@hotmail.com
+* Linkedin : [Edu Garma Andersen](https://www.linkedin.com/in/edu-garma-andersen-b033ba254/)
+
