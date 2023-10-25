@@ -72,14 +72,6 @@ Here are some of the projects that I have worked with in school, have a look!
 * [Swipe North - Web app](swipenorth-group6.vercel.app)
 * [Swipe North - Web app code](https://github.com/JTKsson/swipenorth-group6)
 
-### <div> Group project - Jolint website
-* [Jolint - Dashboard](https://jolint-dashboard-chi.vercel.app/)
-* [Jolint - Dashboard Code](https://github.com/JTKsson/jolint-dashboard)
-* [Jolint - Concent Form](jolint-consent-form.vercel.app)
-* [Jolint - Concent Form Code](https://github.com/JTKsson/jolint-consent-form)
-* [Jolint - Info Page](jolint-webbapp.vercel.app)
-* [Jolint - Info Page code](https://github.com/JTKsson/jolint-webbapp)
-
 ### <div> Assignment - Learning Git
 * [Git - Getting your baseline](https://github.com/Stjaertfena/lab-0-baseline)
 * [Git - Branching & Integrating Changes](https://github.com/Stjaertfena/lab-1-branching)
