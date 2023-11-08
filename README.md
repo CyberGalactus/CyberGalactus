@@ -69,7 +69,7 @@ Here are some of the projects that I have worked with in school, have a look!
 * [Blogg - code](https://github.com/CyberGalactus/bloggProject)
 
 ### <div> Group Project - WebApp for Skellefteå
-* [Swipe North - Web app](swipenorth-group6.vercel.app)
+* [Swipe North - Web app](https://swipenorth-group6.vercel.app/)
 * [Swipe North - Web app code](https://github.com/JTKsson/swipenorth-group6)
 
 ### <div> Assignment - Learning Git
