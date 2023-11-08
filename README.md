@@ -65,7 +65,7 @@
 Here are some of the projects that I have worked with in school, have a look!
 
 ### <div> Connect React project to supabase
-* [Blogg]()
+* [Blogg](https://blogg-project.vercel.app/)
 * [Blogg - code](https://github.com/CyberGalactus/bloggProject)
 
 ### <div> Group Project - WebApp for Skellefteå
