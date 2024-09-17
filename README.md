@@ -62,7 +62,7 @@
 <table><tr><td valign="top" width="50%">
   
 ## <div align="center"> Project
-Here are some of the projects that I have worked with in school, have a look!
+Here are some of the projects I am most proud of. Have a look!
 
 ### <div> Interiör PLus - Rebuilding the website for the company
 * Interiör PLus
