@@ -6,7 +6,7 @@
 
 - 🌱 i’m continuously updating my skills and am currently learning Java.
 - 🗣️ I speak fluent Swedish, fluent Spanish, and fluent English.
-- 😃 If you find me interesting, feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/lisette-svan-1940b3205/](https://www.linkedin.com/in/edu-garma-andersen-b033ba254/)).
+- 😃 If you find me interesting, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/edu-garma-andersen-b033ba254/).
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" align="left" height="300" width="1000" />  
   
 
