@@ -85,17 +85,6 @@ Here are some of the projects I am most proud of. Have a look!
 * [Jolint - Web app](https://jolint-consent-form-13jqhpoe7-excaliderp.vercel.app/)
 * [Jolint - Web app code](https://jolint-consent-form.vercel.app/)
 
-### <div> Assignment - Learning Git
-* [Git - Getting your baseline](https://github.com/Stjaertfena/lab-0-baseline)
-* [Git - Branching & Integrating Changes](https://github.com/Stjaertfena/lab-1-branching)
-* [Git - Undoing Changes](https://github.com/CyberGalactus/lab-2-undoing-changes)
-* [Git - Hunting Production Bugs](https://github.com/Stjaertfena/lab-3-bisect)
-
-
-### <div> Assignment - Javascript ramverk
-* [Intro Assingment - button](https://app-assignment1.vercel.app/)
-* [Intro Assingment - button code](https://github.com/CyberGalactus/button-introAssingment)
-
 </td><td valign="top" width="50%">
   
 ## <div align="center"> Contact Me  
