@@ -64,8 +64,8 @@
 ## <div align="center"> Project
 Here are some of the projects that I have worked with in school, have a look!
 
-### <div> Reddit Clone
-* [Reddit Clone](https://blogg-project.vercel.app/)
+### <div> Reddit Clone - Full stack MERN
+* [Reddit Clone](https://fontend-fullstackcourse-2.onrender.com/)
 * [Reddit Clone - Frontend Code](https://github.com/CyberGalactus/fontend-fullstackcourse)
 * * [Reddit Clone - Backend Code](https://github.com/CyberGalactus/backend-fullstackcourse)
 
