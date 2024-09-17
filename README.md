@@ -45,8 +45,8 @@
 ## <div align="center"> Project
 Here are some of the projects I am most proud of. Have a look!
 
-### <div> Interiör PLus - Rebuilding the website for the company
-* Interiör PLus
+### <div> Interiör Plus - Rebuilding the website for the company
+* Interiör Plus
 * I will upload the link to the page soon.
 
 ### <div> Reddit Clone - Full stack MERN
