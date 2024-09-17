@@ -64,6 +64,11 @@
 ## <div align="center"> Project
 Here are some of the projects that I have worked with in school, have a look!
 
+### <div> Reddit Clone
+* [Reddit Clone](https://blogg-project.vercel.app/)
+* [Reddit Clone - Frontend Code](https://github.com/CyberGalactus/fontend-fullstackcourse)
+* * [Reddit Clone - Backend Code](https://github.com/CyberGalactus/backend-fullstackcourse)
+
 ### <div> Connect React project to supabase
 * [Blogg](https://blogg-project.vercel.app/)
 * [Blogg - code](https://github.com/CyberGalactus/bloggProject)
