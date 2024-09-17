@@ -67,7 +67,7 @@ Here are some of the projects that I have worked with in school, have a look!
 ### <div> Reddit Clone - Full stack MERN
 * [Reddit Clone](https://fontend-fullstackcourse-2.onrender.com/)
 * [Reddit Clone - Frontend Code](https://github.com/CyberGalactus/fontend-fullstackcourse)
-* * [Reddit Clone - Backend Code](https://github.com/CyberGalactus/backend-fullstackcourse)
+* [Reddit Clone - Backend Code](https://github.com/CyberGalactus/backend-fullstackcourse)
 
 ### <div> Connect React project to supabase
 * [Blogg](https://blogg-project.vercel.app/)
