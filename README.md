@@ -65,8 +65,8 @@
 Here are some of the projects that I have worked with in school, have a look!
 
 ### <div> Interiör PLus - Rebuilding the website for the company
-* [Interiör PLus]
-* [I will upload the link to the page soon.]
+* Interiör PLus
+* I will upload the link to the page soon.
 
 ### <div> Reddit Clone - Full stack MERN
 * [Reddit Clone](https://fontend-fullstackcourse-2.onrender.com/)
