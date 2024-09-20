@@ -41,8 +41,6 @@
 
 </div>
 
----
-
 ## 🛠️ Projects
 <div align="center">
   <table>
