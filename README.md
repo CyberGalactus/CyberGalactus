@@ -1,22 +1,24 @@
 # <div align="center">Hi there! I'm Edu Garma Andersen</div>  
   
-
-#### *<div align="center">I am a frontend developer furthering my education to become a cloud developer specializing in AWS. My plan is to utilize my skills to become a Fullstack | cloud developer</div>*  
+#### <div align="center"><i>I am a frontend developer furthering my education to become a cloud developer specializing in AWS. My plan is to utilize my skills to become a Fullstack | Cloud Developer</i></div>  
   
+---
 
-- 🌱 i’m continuously updating my skills and am currently learning Java.
+### About Me
+- 🌱 I’m continuously updating my skills and am currently learning Java.
 - 🗣️ I speak fluent Swedish, fluent Spanish, and fluent English.
 - 😃 If you find me interesting, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/edu-garma-andersen-b033ba254/).
-<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" align="left" height="300" width="1000" />  
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Animated gif" style="width: 100%; max-width: 800px; height: auto;">
+</div>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
   
-
-<br/>  
-
-<table><tr><td valign="top" width="33%">
-
-
-## <div align="center"> 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -39,37 +41,63 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
-<table><tr><td valign="top" width="50%">
-  
-## <div align="center"> Project
-Here are some of the projects I am most proud of. Have a look!
+---
 
-### <div> Interiör Plus - Rebuilding the website for the company
-* Interiör Plus
-* I will upload the link to the page soon.
+## 🛠️ Projects
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>Here are some of the projects I am most proud of. Have a look!</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Interiör Plus - Rebuilding the website for the company</h3>
+        <p>Interiör Plus</p>
+        <p>I will upload the link to the page soon.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Reddit Clone - Full stack MERN</h3>
+        <p><a href="https://fontend-fullstackcourse-2.onrender.com/">Reddit Clone</a></p>
+        <p><a href="https://github.com/CyberGalactus/fontend-fullstackcourse">Reddit Clone - Frontend Code</a></p>
+        <p><a href="https://github.com/CyberGalactus/backend-fullstackcourse">Reddit Clone - Backend Code</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Connect React project to supabase</h3>
+        <p><a href="https://blogg-project.vercel.app/">Blogg</a></p>
+        <p><a href="https://github.com/CyberGalactus/bloggProject">Blogg - code</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Group Project - WebApp for Skellefteå</h3>
+        <p><a href="https://swipenorth-group6.vercel.app/">Swipe North - Web app</a></p>
+        <p><a href="https://github.com/JTKsson/swipenorth-group6">Swipe North - Web app code</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Group Project - WebApp for Jolint</h3>
+        <p><a href="https://jolint-consent-form-13jqhpoe7-excaliderp.vercel.app/">Jolint - Web app</a></p>
+        <p><a href="https://jolint-consent-form.vercel.app/">Jolint - Web app code</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### <div> Reddit Clone - Full stack MERN
-* [Reddit Clone](https://fontend-fullstackcourse-2.onrender.com/)
-* [Reddit Clone - Frontend Code](https://github.com/CyberGalactus/fontend-fullstackcourse)
-* [Reddit Clone - Backend Code](https://github.com/CyberGalactus/backend-fullstackcourse)
+<br/>
 
-### <div> Connect React project to supabase
-* [Blogg](https://blogg-project.vercel.app/)
-* [Blogg - code](https://github.com/CyberGalactus/bloggProject)
-
-### <div> Group Project - WebApp for Skellefteå
-* [Swipe North - Web app](https://swipenorth-group6.vercel.app/)
-* [Swipe North - Web app code](https://github.com/JTKsson/swipenorth-group6)
-
-### <div> Group Project - WebApp for Jolint
-* [Jolint - Web app](https://jolint-consent-form-13jqhpoe7-excaliderp.vercel.app/)
-* [Jolint - Web app code](https://jolint-consent-form.vercel.app/)
-
-</td><td valign="top" width="50%">
-  
-## <div align="center"> Contact Me  
-### <div> Contact
-* Mail : edu.andersen@hotmail.com
-* Linkedin : [Edu Garma Andersen](https://www.linkedin.com/in/edu-garma-andersen-b033ba254/)
-
+## 📞 Contact Me
+<div align="center">
+  <ul>
+    <li>Mail: edu.andersen@hotmail.com</li>
+    <li>Linkedin: <a href="https://www.linkedin.com/in/edu-garma-andersen-b033ba254/">Edu Garma Andersen</a></li>
+  </ul>
+</div>
