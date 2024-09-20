@@ -1,8 +1,6 @@
 # <div align="center">Hi there! I'm Edu Garma Andersen</div>  
   
 #### <div align="center"><i>I am a frontend developer furthering my education to become a cloud developer specializing in AWS. My plan is to utilize my skills to become a Fullstack | Cloud Developer</i></div>  
-  
----
 
 ### About Me
 - 🌱 I’m continuously updating my skills and am currently learning Java.
