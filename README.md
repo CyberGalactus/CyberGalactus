@@ -13,8 +13,6 @@
   <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Animated gif" style="width: 100%; max-width: 800px; height: auto;">
 </div>
 
----
-
 ### 💻 Tech Stack
 
 <div align="center">
