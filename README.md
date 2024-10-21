@@ -88,6 +88,7 @@
       <td>
         <h3>Group Project - WebApp for Jolint</h3>
         <p><a href="https://jolint-consent-form-13jqhpoe7-excaliderp.vercel.app/">Jolint - Web app</a></p>
+        <p><a href="https://jolint-webbapp.vercel.app/">Jolint - Web app 2</a></p>
         <p><a href="https://jolint-consent-form.vercel.app/">Jolint - Web app code</a></p>
       </td>
     </tr>
