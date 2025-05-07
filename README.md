@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-- 🌱 I’m continuously updating my skills and am currently learning Java.
+- 🌱 I’m continuously updating my skills and am currently learning Java and AWS.
 - 🗣️ I speak fluent Swedish, fluent Spanish, and fluent English.
 - 😃 If you find me interesting, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/edu-garma-andersen-b033ba254/).
 
